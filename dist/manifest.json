@@ -11,9 +11,9 @@
 	},
 	"author": "Y-dash",
 	"content_scripts": [ {
-		"matches": ["*://www.amazon.co.jp/gp/css/order-history*"],
+		"matches": ["*://www.amazon.co.jp/*/order-history*"],
 		"js": ["scripts/content.js"],
 		"run_at" : "document_end"
 	} ],
-	"permissions" : ["*://www.amazon.co.jp/gp/css/order-history*"]
+	"permissions" : ["*://www.amazon.co.jp/*/order-history*"]
 }
