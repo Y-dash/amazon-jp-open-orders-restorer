@@ -1,0 +1,27 @@
+{
+  "name": "amazon-jp-open-orders-restorer",
+  "version": "1.0.0",
+  "description": "Google Chrome拡張機能。Amazon.co.jpの「注文履歴」へ「未発送の注文」タブを復活させる。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y-dash/amazon-jp-open-orders-restorer.git"
+  },
+  "author": "Y-dash",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/Y-dash/amazon-jp-open-orders-restorer/issues"
+  },
+  "homepage": "https://github.com/Y-dash/amazon-jp-open-orders-restorer#readme",
+  "devDependencies": {
+    "@types/chrome": "0.0.156",
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-zip": "^5.1.0",
+    "typescript": "^4.4.2"
+  }
+}
