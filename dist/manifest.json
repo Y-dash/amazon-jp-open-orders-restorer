@@ -1,5 +1,5 @@
 {
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"name": "Amazon jp Open Orders restorer | 「未発送の注文」を復活",
 	"version": "1.0.0",
 	"description": "Google Chrome拡張機能。Amazon.co.jpの「注文履歴」へ「未発送の注文」タブを復活させる。",
@@ -15,5 +15,5 @@
 		"js": ["scripts/content.js"],
 		"run_at" : "document_end"
 	} ],
-	"permissions" : ["*://www.amazon.co.jp/*/order-history*"]
+	"host_permissions" : ["*://www.amazon.co.jp/*/order-history*"]
 }
