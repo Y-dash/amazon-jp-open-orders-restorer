@@ -1,5 +1,9 @@
 # Amazon jp Open Orders restorer | 「未発送の注文」を復活
 
+公式で復活しており、再削除される気配もないためArchiveとします。
+
+---
+
 リリース2日後に公式が「未発送」を復活させました。たのしいなぁ。
 
 ---
@@ -17,6 +21,6 @@ Google Chrome 拡張機能。Amazon\.co\.jp の「注文履歴」へ「未発送
 
 ---
 
-[Amazon jp Open Orders restorer \| 「未発送の注文」を復活 \- Chrome ウェブストア](https://chrome.google.com/webstore/detail/amazon-jp-open-orders-res/apboekgnmndpcieapjoemcgmmbhjaael)
+~~[Amazon jp Open Orders restorer \| 「未発送の注文」を復活 \- Chrome ウェブストア](https://chrome.google.com/webstore/detail/amazon-jp-open-orders-res/apboekgnmndpcieapjoemcgmmbhjaael)~~
 
 ---
